@@ -2,3 +2,4 @@
 
 Assignments for Neural Networks.
 * MCP Neuron as Logic Gates
+* Perceptron as Logic Gates
